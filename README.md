@@ -1,4 +1,4 @@
-# Etch-A-Sketch
+# Sketcher
 One of the first few JavaScript projects I will be taking on.
 This project is an emulation of the drawing boards we used to have back in the old days. We could draw and then erase on a grid like canvas. You can find more details about such a board [here](https://en.wikipedia.org/wiki/Etch_A_Sketch).
 
@@ -53,11 +53,10 @@ function creategrid(x){
     };
 
 ```
-## How to Use?
-Find the board [here](https://ipshitachatterjee.github.io/Etch-a-Sketch/)
+
 
 ## Credits
-**©Ipshita Chatterjee | 2018**
+**©Ashok Srinivasan | 2020**
 
 Made for the project that can be found [here](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project)
 
