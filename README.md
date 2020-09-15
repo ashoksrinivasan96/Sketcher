@@ -53,7 +53,8 @@ function creategrid(x){
     };
 
 ```
-
+## Play the game
+You can also play the game [here](https://ashoksrinivasan96.github.io/Sketcher/)
 
 ## Credits
 **©Ashok Srinivasan | 2020**
